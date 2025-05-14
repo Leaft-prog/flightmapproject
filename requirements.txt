@@ -1,0 +1,3 @@
+# requirements.txt
+Pillow==9.3.0
+tkintermapview==1.0.0 
