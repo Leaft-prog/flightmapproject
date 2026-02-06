@@ -1,5 +1,10 @@
 # flightmapproject
-School project
+This was an old school project for a flight moving map client/server, nothing interesting if you want to see something more cool try https://github.com/Leaft-prog/flight-map-server
+
+
+
+
+original description:
 
 "Capolavoro" del anno scolastico 2024/2025 di Francesco Bettin 
 
